@@ -1,0 +1,47 @@
+@media (max-width: 640px) {
+  html {
+    font-size: 13.65px;
+  }
+}
+
+@media (max-width: 540px) {
+  html {
+    font-size: 11.52px;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 64px;
+  }
+}
+
+@media (max-width: 445px) {
+  html {
+    font-size: 9.6px;
+  }
+}
+
+@media (max-width: 414px) {
+  html {
+    font-size: 8.832px;
+  }
+}
+
+@media (max-width: 375px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 360px) {
+  html {
+    font-size: 7.68px;
+  }
+}
+
+@media (max-width: 320px) {
+  html {
+    font-size: 6.8272px;
+  }
+}
