@@ -3,4 +3,8 @@
   --color-text-secondary: #8b949e;
   --color-bg-primary: #0d1117;
   --color-bg-secondary: #161b22;
+  --color-border-primary: #30363d;
+
+  --color-state-selected-primary-bg: #1f6feb;
+  --color-state-selected-primary-text: #f0f6fc;
 }
