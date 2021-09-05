@@ -1,5 +1,4 @@
-import './App.css';
-import Layout from './components/layout';
+import TrendingLists from './components/trendingLists';
 
 function App() {
   return (
@@ -10,7 +9,7 @@ function App() {
           See what the GitHub community is most excited about today.
         </p>
       </header>
-      <Layout />
+      <TrendingLists />
     </div>
   );
 }

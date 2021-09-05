@@ -6,7 +6,6 @@ const ListsHeader = () => {
             <NavLink to="/repositories" activeClassName="selected">Repositories</NavLink>
             <NavLink to="/developers" activeClassName="selected">Developers</NavLink>
         </nav>
-        <div className="filters">Filters</div>
     </div>
 }
 

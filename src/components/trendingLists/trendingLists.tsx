@@ -1,11 +1,11 @@
 import {
     BrowserRouter as Router, Redirect, Route, Switch,
 } from "react-router-dom";
-import Developers from "../developers";
 import ListHeader from '../listsHeader';
-import Repositories from "../repositories";
+import Developers from "../routes/developers";
+import Repositories from "../routes/repositories";
 
-const Layout = () => {
+const TrendingLists = () => {
     return <Router>
         <main>
             <div className="main__content">
@@ -24,4 +24,4 @@ const Layout = () => {
     </Router>
 }
 
-export default Layout;
+export default TrendingLists;
