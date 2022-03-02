@@ -1,12 +1,7 @@
-# Tech stack used in the exercise:
-
 - Typescript
 - React
 - React query
 - css
-
-Only endpoint working form the ones provided is the one pointing to the mocked up server and it's only sending 4 results so there is no point to develop the filters.
-I've spent ~4 hours developing this exercise.
 
 # Getting Started with Create React App
 
